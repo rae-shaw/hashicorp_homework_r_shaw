@@ -70,3 +70,5 @@ $ terraform destroy
 ```
 
 Look for a message at the bottom of the output asking for confirmation. Type `yes` and hit ENTER. Terraform will destroy the resources it created earlier.
+
+## Next Steps
