@@ -1,6 +1,6 @@
 # Getting Started with Terraform
 
-Terraform is the most popular language for defining and provisioning infrastructure as code (IaC). In this guide, you'll learn how to download and install Terraform, in addtion to some of the basic Terraform commands.
+Terraform is the most popular language for defining and provisioning infrastructure as code (IaC). In this guide, you'll learn how to download and install Terraform, in addition to some of the basic Terraform commands.
 
 ## Prerequisites
 
@@ -73,7 +73,7 @@ Deleting expired sessions...3 completed.
 
 ## Build the Infrastructure
 
-Now that Terraform is installed, you can dive right into creating creating infrastructure. 
+Now that Terraform is installed, you can dive right into creating infrastructure. 
 
 Create a new directory on your local machine for your Terraform configuration code and cd into it.
 
@@ -178,7 +178,7 @@ See note in email about this output.
 
 You've learned how to install, initialize, and provision Terraform and your infrastructure. Before moving on to more complex topics, we'll go over how to destroy the infrastructure.
 
-Type `destroy` to terminate the resources previously defined.
+Use the `destroy` command to terminate the resources previously defined.
 
 ```shell
 $ terraform destroy
@@ -198,7 +198,7 @@ Type `yes` and hit ENTER. Terraform will destroy the resources it created earlie
 
 ## Next Steps
 
-At this point, you downloaded Terraform and completed the initialization and installation. Return this guide to review the steps and basic commands as needed.
+At this point, you downloaded Terraform and completed the initialization and installation. You also learned how to destroy the infrastructure. Return this guide to review the steps and basic commands as needed.
 
 To continue learning more intermediate and advanced topics, check out the following guides and resources:
 1. Guide 1
